@@ -1,2 +1,2 @@
 # FarlaffHolo
-the Farlaf Holo Pyramid
+The Farlaff's Holo Pyramid
