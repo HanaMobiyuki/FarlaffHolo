@@ -1,7 +1,7 @@
 ------------------
 System Information
 ------------------
-Time of this report: 3/24/2016, 11:12:11
+Time of this report: 3/24/2016, 12:35:48
        Machine name: SSI-SV16
    Operating System: Windows 7 Professionnel 64-bit (6.1, Build 7601) Service Pack 1 (7601.win7sp1_gdr.160211-0600)
            Language: French (Regional Setting: French)
@@ -11,7 +11,7 @@ System Manufacturer: LENOVO
           Processor: Intel(R) Pentium(R) CPU G2030 @ 3.00GHz (2 CPUs), ~3.0GHz
              Memory: 4096MB RAM
 Available OS Memory: 4052MB RAM
-          Page File: 2704MB used, 1361MB available
+          Page File: 2519MB used, 2619MB available
         Windows Dir: C:\Windows
     DirectX Version: DirectX 11
 DX Setup Parameters: Not found
@@ -211,13 +211,13 @@ PS/2 Devices
 Disk & DVD/CD-ROM Drives
 ------------------------
       Drive: C:
- Free Space: 81.3 GB
+ Free Space: 80.2 GB
 Total Space: 149.9 GB
 File System: NTFS
       Model: WDC WD2500AAKX-08U6AA0 ATA Device
 
       Drive: D:
- Free Space: 67.6 GB
+ Free Space: 68.2 GB
 Total Space: 88.5 GB
 File System: NTFS
       Model: WDC WD2500AAKX-08U6AA0 ATA Device
