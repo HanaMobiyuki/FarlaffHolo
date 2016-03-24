@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<Version>1</Version>
+<ProcessId>5548</ProcessId>
+<IsInternalBuild>0</IsInternalBuild>
+<IsPerforceBuild>0</IsPerforceBuild>
+<IsSourceDistribution>0</IsSourceDistribution>
+<GameName>pyramide</GameName>
+<ExecutableName>UE4Editor</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<PlatformName>Windows</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Editor</EngineMode>
+<EngineVersion>4.10.2-2818068+++depot+UE4-Releases+4.10</EngineVersion>
+<CommandLine></CommandLine>
+<LanguageLCID>9</LanguageLCID>
+<DefaultLocale>fr_FR</DefaultLocale>
+<IsUE4Release>1</IsUE4Release>
+<UserName></UserName>
+<BaseDir>D:/unreal engine 4.10/Engine/Binaries/Win64/</BaseDir>
+<RootDir>D:/unreal engine 4.10/</RootDir>
+<MachineId>B07FDC394FAD070C983C2ABD9BD9F828</MachineId>
+<EpicAccountId></EpicAccountId>
+<CallStack></CallStack>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<ErrorMessage>Fatal error: [File:D:\BuildFarm\buildmachine_++depot+UE4-Releases+4.10\Engine\Source\Runtime\Core\Private\GenericPlatform\GenericPlatformMemory.cpp] [Line: 91] 
+Ran out of memory allocating 918371280 bytes with alignment 0
+</ErrorMessage>
+<MiscNumberOfCores>2</MiscNumberOfCores>
+<MiscNumberOfCoresIncludingHyperthreads>2</MiscNumberOfCoresIncludingHyperthreads>
+<MiscIs64bitOperatingSystem>1</MiscIs64bitOperatingSystem>
+<MiscCPUVendor>GenuineIntel</MiscCPUVendor>
+<MiscCPUBrand>        Intel(R) Pentium(R) CPU G2030 @ 3.00GHz</MiscCPUBrand>
+<MiscPrimaryGPUBrand>NVIDIA Quadro 410 </MiscPrimaryGPUBrand>
+<MiscOSVersionMajor>Windows 7</MiscOSVersionMajor>
+<MiscOSVersionMinor>Service Pack 1</MiscOSVersionMinor>
+<CrashDumpMode>0</CrashDumpMode>
+<MemoryStatsTotalPhysical>4248518656</MemoryStatsTotalPhysical>
+<MemoryStatsTotalVirtual>8796092891136</MemoryStatsTotalVirtual>
+<MemoryStatsPageSize>4096</MemoryStatsPageSize>
+<MemoryStatsTotalPhysicalGB>4</MemoryStatsTotalPhysicalGB>
+<MemoryStatsAvailablePhysical>143634432</MemoryStatsAvailablePhysical>
+<MemoryStatsAvailableVirtual>8786583629824</MemoryStatsAvailableVirtual>
+<MemoryStatsUsedPhysical>3314012160</MemoryStatsUsedPhysical>
+<MemoryStatsPeakUsedPhysical>3412299776</MemoryStatsPeakUsedPhysical>
+<MemoryStatsUsedVirtual>8889196544</MemoryStatsUsedVirtual>
+<MemoryStatsPeakUsedVirtual>9848078336</MemoryStatsPeakUsedVirtual>
+<MemoryStatsbIsOOM>1</MemoryStatsbIsOOM>
+<MemoryStatsOOMAllocationSize>918371280</MemoryStatsOOMAllocationSize>
+<MemoryStatsOOMAllocationAlignment>0</MemoryStatsOOMAllocationAlignment>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+</PlatformProperties>
+</FGenericCrashContext>
